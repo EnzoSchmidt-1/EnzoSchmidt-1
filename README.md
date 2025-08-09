@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**EnzoSchmidt-1/EnzoSchmidt-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
 
 Here are some ideas to get you started:
 
